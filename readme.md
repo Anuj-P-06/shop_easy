@@ -237,7 +237,29 @@ open index.html
 > Works without a backend or server – fully client-side.
 
 ## Screenshots
-(Add screenshots here using GitHub issue images or local assets)
+Home:
+![Image](https://github.com/user-attachments/assets/f65aafaf-0122-45d5-a51f-ea1d5fa9b18a)
+
+![Image](https://github.com/user-attachments/assets/5fb0ce96-5107-4c65-b508-e4e804efe9c1)
+
+![Image](https://github.com/user-attachments/assets/efffefc8-d926-4641-b5c6-061a35b8f94c)
+
+![Image](https://github.com/user-attachments/assets/9b8da634-385a-4eba-abb0-6d2c7bf00d93)
+
+
+product:
+![Image](https://github.com/user-attachments/assets/7a6fb931-1080-4abf-9dbf-d99a3673ac64)
+
+![Image](https://github.com/user-attachments/assets/e998cab0-9480-47ed-830f-e366d0a51785)
+
+
+Cart:
+![Image](https://github.com/user-attachments/assets/dbc19586-e4e2-499a-af6a-cd81624b167f)
+
+
+Checkout:
+![Image](https://github.com/user-attachments/assets/0680f787-4990-4796-9a6a-7d7a571cbe1d)
+
 
 ## Key Learnings
 - DOM manipulation at scale using vanilla JavaScript
